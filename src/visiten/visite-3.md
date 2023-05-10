@@ -6,6 +6,13 @@ date: 2023-04-04
 author: Eric Luecking
 ---
 
+Persönliche Informationen
+
+Name: Jane Smith  
+Geburtsdatum: 1. Januar 1950  
+Adresse: Musterstraße 153, 12345 Musterstadt  
+Telefon: 0123-456450  
+[Email](mailto:jane.smith@aquarium.com) jane.smith@aquarium.com
 
 
 # Jane Smith

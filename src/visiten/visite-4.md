@@ -6,6 +6,13 @@ date: 2023-04-04
 author: Eric Luecking
 ---
 
+Persönliche Informationen
+
+Name: John Smith  
+Geburtsdatum: 1. Januar 1940  
+Adresse: Musterstraße 63, 12345 Musterstadt  
+Telefon: 0123-455677  
+[Email](mailto:john.smith@aquarium.com)
 
 
 # John Smith

@@ -5,6 +5,13 @@ exerpt: ab
 date: 2023-04-04
 author: Eric Luecking
 ---
+ Persönliche Informationen
+
+Name: Stefan Meier  
+Geburtsdatum: 1. Januar 1960  
+Adresse: Musterstraße 564, 12345 Musterstadt  
+Telefon: 0123-4567560  
+[Email](mailto:john.smith@aquarium.com)
 
 
 Erfahrener HR-Manager mit mehr als 10 Jahren Erfahrung in der Personalabteilung. Verantwortlich für die Umsetzung von Personalstrategien und -programmen in verschiedenen Unternehmen.

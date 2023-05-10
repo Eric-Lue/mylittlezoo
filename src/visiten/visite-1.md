@@ -8,11 +8,11 @@ author: Eric Luecking
 
 Persönliche Informationen
 
-    Name: Herrman Walter
-    Geburtsdatum: 1. Januar 1970
-    Adresse: Musterstraße 123, 12345 Musterstadt
-    Telefon: 0123-4567890
-    E-Mail: max.mustermann@zoo.de
+Name: Herrman Walter  
+Geburtsdatum: 1. Januar 1970  
+Adresse: Musterstraße 123, 12345 Musterstadt  
+Telefon: 0123-4567890
+[Email](mailto:herrman.walter@aquarium.com)
 
 Berufliche Erfahrung
 Zoo-Chef
